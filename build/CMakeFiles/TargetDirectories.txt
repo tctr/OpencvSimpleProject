@@ -1,0 +1,3 @@
+/Users/thierry/Dev/OpenCV/simple_project/build/CMakeFiles/simple-demo.dir
+/Users/thierry/Dev/OpenCV/simple_project/build/CMakeFiles/edit_cache.dir
+/Users/thierry/Dev/OpenCV/simple_project/build/CMakeFiles/rebuild_cache.dir
