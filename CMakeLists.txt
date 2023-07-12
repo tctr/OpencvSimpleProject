@@ -7,7 +7,8 @@ project(simple-demo)
 
 # set OpenCV_DIR variable equal to the path to the cmake
 # files within the previously installed opencv program
-set(OpenCV_DIR ../install/lib/cmake/opencv4)
+set(OpenCV_DIR $ENV{OPENCV_MAC})
+#set(OpenCV_DIR ../install/lib/cmake/opencv4)
 
 # Tell compiler to use C++ 17 features which is needed because
 # Clang version is often behind in the XCode installation
